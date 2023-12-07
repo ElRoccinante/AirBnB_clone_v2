@@ -3,7 +3,6 @@
 import unittest
 import console
 
-
 class test_Console(unittest.TestCase):
     """doc doc"""
 
